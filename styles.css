@@ -76,10 +76,9 @@ body {
   margin-bottom: 0.75rem;
 }
 
-.card-rate h2 {
+.card-rate p {
   color: var(--very-dark-magenta);
   font-weight: 600;
-  font-size: 1rem;
 }
 
 .card-customer {
